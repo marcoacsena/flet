@@ -34,6 +34,8 @@ dev-dependencies = [
     "flet[all]==0.27.1",
 ]
 
+flutter.dependencies = [flet-audio]
+
 [tool.poetry]
 package-mode = false
 
